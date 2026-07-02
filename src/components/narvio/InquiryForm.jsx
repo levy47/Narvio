@@ -10,7 +10,7 @@ import { Ruler, Hammer, FileCheck } from "lucide-react";
 // 3. Replace YOUR_FORM_ID below, commit and push — done.
 // Submissions arrive by email and in the Formspree dashboard.
 // ─────────────────────────────────────────────────────────────────────────────
-const FORM_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID";
+const FORM_ENDPOINT = "https://formspree.io/f/mzdlkzep";
 
 function Field({ label, children }) {
   return (
